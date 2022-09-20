@@ -1,42 +1,13 @@
 # main links
 main:
-  - title: "Virtual Conference"
-    url: https://www.virtual2021.eacl.org/
-    highlight: true
-  - title: "Schedule"
-    url: /schedule/
-  - title: "Program"
-    url: /program/keynotes/
-  - title: "News"
-    url: /news
-  - title: "Registration"
-    url: /registration
-  - title: "Sponsors"
-    url: /sponsors
-  - title: "Code of Conduct"
-    url: /code
-  - title: "Committees"
-    url: /committees/organization
-  - title: "Calls"
+  - title: "Call for papers"
     url: /calls/papers
-  - title: "Reviewers"
-    url: /reviewers
 
 calls:
   - title: Call for
     children:
       - title: "Main Conference Papers"
         url: /calls/papers/
-      - title: "System Demonstrations"
-        url: /calls/demos/
-      - title: "Workshop Proposals"
-        url: /calls/workshops/
-      - title: "Tutorial Proposals"
-        url: /calls/tutorials/
-      - title: "Student Workshop"
-        url: /calls/student/
-      - title: "Volunteers"
-        url: /calls/volunteers/
 
 program:
   - title: Program Details

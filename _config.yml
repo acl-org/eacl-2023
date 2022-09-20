@@ -140,6 +140,24 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+  - _pages/calls/demos.md
+  - _pages/calls/student.md
+  - _pages/calls/tutorials.md
+  - _pages/calls/volunteers.md
+  - _pages/calls/workshops.md
+  - _pages/committees
+  - _pages/news
+  - _pages/newsletter
+  - _pages/program
+  - _pages/schedule
+  - _pages/archive.md
+  - _pages/code.md
+  - _pages/kyiv.md
+  - _pages/news.md
+  - _pages/registration.md
+  - _pages/reviewers.md
+  - _pages/sponsors.md
+  - _pages/update.md
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
