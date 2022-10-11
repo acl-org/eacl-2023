@@ -10,7 +10,7 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
-  <h2 id="eacl-2023-demo">EACL 2023 Call for System Demonstrations</h2>
+  <h2 id="eacl-2023-demo">Call for System Demonstrations posted</h2>
    **October 11, 2022**. The [Call for Demos]({{ "/calls/demos" | relative_url }}) is out!
   Deadline for submission is **Friday, December 2, 2022**.
 </div>
