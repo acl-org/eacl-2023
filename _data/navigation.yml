@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Call for Papers"
+  - title: "Calls"
     url: /calls/papers
-  - title: "Call for Demos"
-    url: /calls/demos
   - title: "Code of Conduct"
     url: /code
   - title: "Ethics"
