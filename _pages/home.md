@@ -105,7 +105,7 @@ As the flagship European conference in the field of computational linguistics, E
         </tr>
         <tr>
             <td>Camera-ready papers due <br/> (<i>demo track</i>)</td>
-            <td>wednesday</td>
+            <td>Wednesday</td>
             <td>1&nbsp;March 2023</td>
         </tr>
         <tr>
