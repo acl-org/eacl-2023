@@ -7,7 +7,7 @@ sidebar:
   nav: calls
 toc: true
 toc_only: false
-toc_sticky: false
+toc_sticky: true
 toc_icon: "cog"
 ---
 
