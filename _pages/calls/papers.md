@@ -25,10 +25,10 @@ However, in order to keep the review load on the community as a whole manageable
 Papers submitted directly to EACL will have the “regular” review process: paper reviewed by 3 reviewers, authors are invited to write an author response and revise their paper before the camera ready deadline, if accepted. ARR papers committed to EACL will be handled by the Senior Area Chairs. For these papers, the authors may provide an author response but not revise their paper (with the exception of adding the required “limitations” section, if it was missing from the ARR submission; see below).
 
 
-<b>Cross-Submission Policy with ARR</b>
+<b>Cross-Submission Policy with ARR:</b>
 - Any ARR-reviewed paper that has received all of its reviews and meta-reviews available by the ARR-to-conference commitment deadline <i>(January 8, 2023)</i>, <b>can be committed to EACL 2023</b>.
     - <b>Note</b>: Submissions from ARR cannot be modified except that they can be associated with an author response.
-    - <b>Note</b>: While EACL will consider any ARR paper that has been fully reviewed by <i>January 8, 2023</i>, unlike for ACL and NAACL 2022, ARR does <b>not</b> guarantee a date such that all papers submitted to ARR before the date are guaranteed to receive necessary reviews in time for the EACL deadline. Consequently, care must be taken in deciding whether a submission should be made to ARR or EACL directly if the work has not been submitted anywhere before the call. Plan accordingly.
+    - <b>Note</b>: EACL will consider any ARR paper that has been fully reviewed by <i>January 8, 2023</i>. We have been informed by ARR Editors in Chief that all papers submitted to ARR for the October 15, 2022 deadline will be guaranteed to receive necessary reviews in time for the EACL commitment deadline.
     - <b>Note</b>: The START system deadline for direct submission papers, namely non-ARR submission papers, is <i>October 20, 2022</i>.
 - Papers submitted to ARR before <i>October 13, 2022</i>, <b>can be withdrawn and submitted to EACL 2023</b>. 
     - <b>Note</b>: In order for a paper to be submitted directly to EACL 2023, it must be inactive in the ARR system. This means that the submission must either be explicitly withdrawn by the authors, or the ARR reviews are finished and shared with the authors before <i>October 13, 2022</i>, and the paper was not re-submitted to ARR.
@@ -36,6 +36,11 @@ Papers submitted directly to EACL will have the “regular” review process: pa
 - Papers that are in the ARR system after <i>October 13, 2022</i>, either submitted after or submitted before and not withdrawn, <b>cannot be directly submitted to EACL 2023</b>.
 - Papers submitted to EACL 2023 <b>may not be submitted for review elsewhere</b> (including ARR) while being under review at EACL 2023.
 
+
+<b>Cross-submission policy with ACL 2023:</b>
+- As the EACL 2023 notification deadline and ACL 2023 submission deadline are unfortunately on the same day, you may submit your paper to ACL 2023 while it is still under review at EACL 2023.
+- <b>Note</b>: Should your paper be accepted to EACL, you still wish to publish it there and have cross-submitted to ACL, you must notify ACL of withdrawal no later than January 31, 2023.
+- <b>Note</b>: Conversely, the deadline for notifying us of withdrawal of your manuscript is January 27, 2023. 
 
 ## Important Dates
 <table class="table-dates">
@@ -69,6 +74,11 @@ Papers submitted directly to EACL will have the “regular” review process: pa
             <td>Notification of acceptance <br/> (<i>long & short papers</i>)</td>
             <td>Friday</td>
             <td>20&nbsp;January 2023</td>
+        </tr>
+        <tr>
+            <td>Withdrawal deadline <br/> (<i>long & short papers</i>)</td>
+            <td>Friday</td>
+            <td>27&nbsp;January 2023</td>
         </tr>
         <tr>
             <td>Camera-ready papers due <br/> (<i>long & short papers</i>)</td>
@@ -148,7 +158,9 @@ In cases where a preprint has been superseded by a refereed publication, the ref
 For more information, see the [ACL Policies for Submission, Review, and Citation](https://www.aclweb.org/portal/content/new-policies-submission-review-and-citation)
 
 ### Multiple Submission Policy
-EACL 2023 will not consider any paper that is under review in a journal or another conference at the time of submission, and submitted papers must not be submitted elsewhere during the EACL 2023 review period. This policy covers all refereed and archival conferences and workshops (e.g., NeurIPS, ACL workshops), as well as ARR. In addition, we will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to EACL 2023 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results.
+EACL 2023 will not consider any paper that is under review in a journal or another conference at the time of submission, and submitted papers must not be submitted elsewhere during the EACL 2023 review period. This policy covers all refereed and archival conferences and workshops (e.g., NeurIPS, ACL workshops), as well as ARR. An exception to this policy is ACL 2023 – since the EACL 2023 notification deadline and ACL 2023 submission deadline is on the same day, you may submit your paper to ACL 2023 while it is still under review at EACL 2023. Note that, if you no longer wish to publish your paper at EACL, you have until the withdrawal deadline, <i>January 27, 2023</i>, to withdraw your paper.
+
+In addition, we will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to EACL 2023 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results.
 
 EACL 2023 will also accept submissions of ARR-reviewed papers, provided that the ARR reviews and meta-reviews are available by the ARR-to-conference submission deadline. However, EACL 2023 will not accept direct submissions that are actively under review in ARR, or that overlap significantly (>25%) with such submissions.
 
