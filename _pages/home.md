@@ -54,7 +54,7 @@ As the flagship European conference in the field of computational linguistics, E
 <table class="table-dates">
     <tbody>
         <tr>
-            <td>Abstract registration deadline for START direct submissions</td>
+            <td>Abstract registration deadline <br/>for START direct submissions</td>
             <td>Thursday</td>
             <td>13&nbsp;October 2022</td>
         </tr>
@@ -67,6 +67,11 @@ As the flagship European conference in the field of computational linguistics, E
             <td>Direct paper submission deadline <br/> (<i>long & short papers</i>)</td>
             <td>Thursday</td>
             <td>20&nbsp;October 2022</td>
+        </tr>
+        <tr>
+            <td>Direct paper submission deadline <br/> (<i>demo track</i>)</td>
+            <td>Friday</td>
+            <td>2&nbsp;December 2022</td>
         </tr>
         <tr>
             <td>Author response period</td>
@@ -89,9 +94,19 @@ As the flagship European conference in the field of computational linguistics, E
             <td>27&nbsp;January 2023</td>
         </tr>
         <tr>
+            <td>Notification of acceptance <br/> (<i>demo track</i>)</td>
+            <td>Friday</td>
+            <td>8&nbsp;February 2022</td>
+        </tr>
+        <tr>
             <td>Camera-ready papers due <br/> (<i>long & short papers</i>)</td>
             <td>Friday</td>
             <td>10&nbsp;February 2023</td>
+        </tr>
+        <tr>
+            <td>Camera-ready papers due <br/> (<i>demo track</i>)</td>
+            <td>wednesday</td>
+            <td>1&nbsp;March 2023</td>
         </tr>
         <tr>
             <td>Workshops & Tutorials</td>
